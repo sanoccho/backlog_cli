@@ -1,0 +1,32 @@
+{
+  "name": "@sanoccho/backlog_cli",
+  "version": "1.0.2",
+  "description": "This package allows you to check your incompleted tickets' details, and update their status from CLI.",
+  "main": "index.sh",
+  "dependencies": {
+    "node": "^14.8.0",
+    "axios": "^0.20.0",
+    "commander": "^6.1.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanoccho/backlog_cli.git"
+  },
+  "keywords": [
+    "backlog",
+    "cli"
+  ],
+  "author": "Haruka Sano <h_sano3@ga-tach.co.jp> (http://github.com/sanoccho)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanoccho/backlog_cli/issues"
+  },
+  "homepage": "https://github.com/sanoccho/backlog_cli#readme"
+}
