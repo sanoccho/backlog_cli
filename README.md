@@ -20,7 +20,7 @@ node incompletedTicketsList.mjs
 ```
 2. when you want to check further info about your tickets in your list above...
 ```
-node showTicketsDetail.mjs
+node showTicketsDetail.mjs [your ticket ID]
 ```
 3. when you want to update your ticket status...
 
