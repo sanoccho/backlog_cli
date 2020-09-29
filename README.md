@@ -1,12 +1,14 @@
 # backlog_cli
 
 ##description
+
 This package allows you to execute three things from your CLI;
 1. Check your incompleted issue tickets list of all projects you're assiged
 2. Show tickets' details of your own
 3. Update issue tickets' status
 
 ##install
+
 1. Run the `npm install -g @sanoccho/backlog_cli` to install the package.
 2. Run `npm init` to create package.json (just input what's asked by program.)
 3. Once you completed, you'd be asked `Is this OK? (yes)` so answer `yes`.
@@ -18,6 +20,7 @@ This package allows you to execute three things from your CLI;
 
 
 ##API
+
 1. when you want to check your incompleted tickets list...
 ```
 node incompletedTicketsList.mjs
