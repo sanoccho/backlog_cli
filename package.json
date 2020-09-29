@@ -1,6 +1,6 @@
 {
   "name": "@sanoccho/backlog_cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package allows you to check your incompleted tickets' details, and update their status from CLI.",
   "main": "index.sh",
   "dependencies": {
