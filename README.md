@@ -7,9 +7,13 @@ This package allows you to execute three things from your CLI;
 3. Update issue tickets' status
 
 ##install
-1. Run the `npm install -g backlog_cli` to install the package.
-2. Execute `sh index.sh` and follow instructions to set up your API_KEY.
-3. 0nce you're done with #2, you're ready to use CLI!
+1. Run the `npm install -g @sanoccho/backlog_cli` to install the package.
+2. Run `npm init` to create package.json (just input what's asked by program.)
+3. Once you completed, you'd be asked `Is this OK? (yes)` so answer `yes`.
+4. Then run `npm i @sanoccho/backlog_cli` again.
+5. After that, run `cd node_modules/@sanoccho/backlog_cli` to get into main directory.
+6. To set up your API KEY to your .env file, run `sh index.sh ` to get some instructions!
+7. 0nce you're done with #6, you're ready to use CLI!
 
 
 
