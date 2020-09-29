@@ -7,13 +7,11 @@ This package allows you to execute three things from your CLI;
 3. Update issue tickets' status
 
 ##install
-1. Run the command below to install the package
-2. execute `sh index.sh` and follow instructions to steup your API_KEY
-3. once you're done #2, you're ready to use CLI
+1. Run the `npm install -g backlog_cli` to install the package.
+2. Execute `sh index.sh` and follow instructions to set up your API_KEY.
+3. 0nce you're done with #2, you're ready to use CLI!
 
-```
-npm install -g backlog_cli
-```
+
 
 ##API
 1. when you want to check your incompleted tickets list...
