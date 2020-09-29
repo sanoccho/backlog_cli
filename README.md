@@ -9,7 +9,7 @@ This package allows you to execute three things from your CLI;
 
 ##install
 
-1. Run the `npm install -g @sanoccho/backlog_cli` to install the package.
+1. Run `npm install -g @sanoccho/backlog_cli` to install the package.
 2. Run `npm init` to create package.json (just input what's asked by program.)
 3. Once you completed, you'd be asked `Is this OK? (yes)` so answer `yes`.
 4. Then run `npm i @sanoccho/backlog_cli` again.
