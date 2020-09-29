@@ -8,13 +8,36 @@ This package allows you to execute three things from your CLI;
 
 ##install
 1. Run the command below to install the package
-2. Instructions for setting your API KWY will be shown
-3. Follow them and get your `.env` file ready! 
+2. execute `sh index.sh` and follow instructions to steup your API_KEY
+3. once you're done #2, you're ready to use CLI
 
 ```
 npm install -g backlog_cli
 ```
 
 ##API
-coming soon...
+1. when you want to check your incompleted tickets list...
+```
+node incompletedTicketsList.mjs
+```
+2. when you want to check further info about your tickets in your list above...
+```
+node showTicketsDetail.mjs
+```
+3. when you want to update your ticket status...
+
+```
+node updateIssueStatus.mjs [your ticket ID] [new status]
+```
+specify the new status fro below and give that word correctly to the command.
+```
+ 未着手: 'open'
+ 
+ 処理中: 'in_progress'
+   
+ 処理済み: 'resolved'
+
+ 完了: 'closed'
+```
+
 
