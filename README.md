@@ -15,7 +15,7 @@ This package allows you to execute three things from your CLI;
 4. Then run `npm i @sanoccho/backlog_cli` again.
 5. After that, run `cd node_modules/@sanoccho/backlog_cli` to get into main directory.
 6. To set up your API KEY to your .env file, run `sh index.sh ` to get some instructions!
-7. 0nce you're done with #6, you're ready to use CLI!
+7. Once you're done with #6, you're ready to use CLI!
 
 
 
